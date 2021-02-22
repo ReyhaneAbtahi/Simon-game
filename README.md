@@ -4,7 +4,7 @@ simon is a memory game. play online on this link: https://www.memozor.com/simon-
 # Requirement  
 * proteus
 * atmega32 compiler(atmel studio for example)
-# Example
+# Proteus
 ![see example picture here](example.png)  
 # Support:
 
